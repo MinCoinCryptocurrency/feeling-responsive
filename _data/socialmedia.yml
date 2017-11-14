@@ -1,42 +1,42 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: https://github.com/mincoin/mincoin
   class: icon-github
-  title: Code und mehr...
+  title: MinCoin Github
 
 - name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+  url: https://www.youtube.com/channel/UCkyWACPLI_ntAHpEFfpZp9Q
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: "MinCoin Youtube"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: https://twitter.com/MinCoinProject
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "MinCoin Twitter"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/phlow/
+#   class: icon-cloud
+#   title: "Mixe, was sonst?"
 
 - name: Google+
-  url: https://plus.google.com/+Phlow
+  url: https://plus.google.com/111635259728003573047
   class: icon-googleplus
-  title: "Google+"
+  title: "MinCoin Google+"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+ - name: Facebook
+   url: https://www.facebook.com/mincoin.us/
+   class: icon-facebook
+   title: "MinCoin Facebook"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
 #   class: icon-soundcloud
 #   title: ""
 
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
+ - name: Instagram
+   url: https://www.instagram.com/mincoinofficial/
+   class: icon-instagram
+   title: "MinCoin Instagram"
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/

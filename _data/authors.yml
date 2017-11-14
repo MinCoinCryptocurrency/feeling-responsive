@@ -7,12 +7,12 @@
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 
 phlow: # replace this with your info
-  name: "Phlow"
+  name: "MinCoin Foundation"
   siterole: "webmaster, developer, copywriter, designer"
-  uri: http://phlow.de/
+  uri: mincoinfoundation.com
   email:
-  twitter: "@phlow"
-  facebook: "phlow.media"
-  google_plus_url: "https://plus.google.com/u/0/+Phlow"
+  twitter: "@MinCoinProject"
+  facebook: "mincoinforum"
+  google_plus_url: "https://plus.google.com/111635259728003573047"
 
 # Add more authors below
